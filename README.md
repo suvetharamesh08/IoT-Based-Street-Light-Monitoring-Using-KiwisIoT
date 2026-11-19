@@ -35,29 +35,27 @@ An IoT-based Automatic Street Light System developed using ESP8266 and an LDR se
 4. If the LDR value is 500 or above, the LED turns OFF.
 5. Sensor readings and operating status are transmitted to KiwisIoT.
 
-## 📊 Data Monitoring
+## 📂 Source Code
 
-| Parameter           | IoT Channel |
-| ------------------- | ----------- |
-| LDR Value           | Channel 0   |
-| Street Light Status | Channel 1   |
-| Environment Status  | Channel 2   |
+[ESP8266_Automatic_Street_Light.ino](ESP8266_Automatic_Street_Light.ino)
+
+## 📸 Project Output
+
+![ESP8266 Automatic Street Light Output](STREET%20LIGHT.jpeg)
+
 
 ## 🌟 Key Features
 
 - Automatic street light control.
 - Real-time light intensity monitoring.
 - Wi-Fi-based communication.
-- KiwisIoT cloud dashboard integration.
-- Energy-efficient lighting automation.
+
 
 ## 🚀 Applications
 
 - Smart Street Lighting
 - Smart City Infrastructure
 - Automated Outdoor Lighting
-- Smart Campus Lighting
-- IoT-Based Lighting Systems
 
 
 ## 📜 Conclusion
