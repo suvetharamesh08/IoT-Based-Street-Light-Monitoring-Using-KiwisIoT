@@ -41,6 +41,11 @@ An IoT-based Automatic Street Light System developed using ESP8266 and an LDR se
 
 ## 📸 Project Output
 
+## Circuit Connections
+
+![Street Light Circuit Connections](street%20light%20%20circuit%20connections.jpeg)
+
+
 ![ESP8266 Automatic Street Light Output](STREET%20LIGHT.jpeg)
 
 
